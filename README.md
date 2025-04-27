@@ -1,5 +1,5 @@
 # GEDI
-Hi my name is #sumir #shrestha 
+Hi my name is # Sumir # Shrestha 
 This tutorial is copied from https://github.com/ornldaac/gedi_tutorials/blob/main/
 I do not own anything from this.
 I made this code to make my study research easier. The study region of my location is in the Terai. 
